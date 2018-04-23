@@ -1,0 +1,23 @@
+Miért adunk visszajelzést?
+    A visszajelzés a visszajelzett alany fejlődését gyorsítja fel. Ez egy hosszú távú befektetés, ami hamar megtérül.
+Mikor adunk visszajelzést?
+    Minnél hamarabb az eset után és rendszeresen időközönként.
+Hogyan történik?
+    "Én üzenetekben"
+
+Az SBI módszer:
+
+SBI mozaikszó jelentése:
+	Situation: 	Körülmények ismertetése.
+	Behavior: 	Mit tett azon körülmények fennállásakor.
+    Impact: 	A viselkedés hatása a szituációra.
+
+A visszajelzés adás folyamata:
+    A. Előkészület:
+        1. Visszajelzés adásunk jellegének összefoglalása:
+            - begyűjtött információk összegzése
+            - szituációk előkészítése
+        2. Kimenetek áttekintése:
+            - a reakciókra való felkészülés (különösen negatív visszajelzéseknél)
+    B. Meeting:
+        1.
