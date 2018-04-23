@@ -15,10 +15,9 @@ Milyen a jó visszajelzés?
     - Őszinte, mivel van alapja a mondanivalónak, a visszajelző fél kellően felkészült és nem fél közölni a tényeket.
     - Asszertív, sem nem passzív, sem nem aggresszív, hanem olyan önévényesítő magatartásforma, amit alkalmazva mindkét fél nyertesen kerül ki.
     - Nem általánosított, hanem személyreszabott. Általánosításnak helye nincs, a személy fejlődése a cél.
-    - Jól időzített. Nem későn, de nem is azonnal.
+    - Jól időzített. Nem késői, de nem is azonnali.
     - Tényekre alapozott, tárgyilagos + SBI.
     - Semmiképp sem szarszendvics (LoL).
-
 
 Az SBI módszer:
 
