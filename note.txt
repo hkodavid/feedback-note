@@ -1,37 +1,48 @@
 Miért adunk visszajelzést?
-    A visszajelzés a visszajelzett alany fejlődését gyorsítja fel. Ez egy hosszú távú befektetés, ami hamar megtérül.
+    A visszajelzés a visszajelzett alany fejlődését gyorsítja fel.
 
 Mikor adunk visszajelzést?
-    Minnél hamarabb az eset után és rendszeresen időközönként.
+    Egy eset után a megfelelő időpontban és rendszeresen, így monitoringot igényel.
 
 Hogyan történik?
-    - Bizalmi légkört alakítunk ki. Elkülönölünk a megszokott környezettől, személyes, zavartalan, privát helyszínt válaszunk.
-    - "Én üzenetekben" beszélünk. Az ilyen kijelentésekbe gyakorlatilag nem lehet belekötni, mert a saját vagy más személyes tapasztalatát osztjuk meg.
-    - Soha nem a személyt itéljük meg, nem őt minősítjük, hanem az adott cselekedet az információink birtokában.
+    - Bizalmi légkört alakítunk ki. Elkülönölünk a megszokott környezettől, privát helyszínt válaszunk.
+    - "Én üzenetekben" beszélünk. Az ilyen kijelentésekbe gyakorlatilag nem lehet belekötni, mert a saját megélésünket osztjuk meg.
+    - Soha nem a személyt ítéljük meg, nem őt minősítjük, hanem az adott cselekedet.
+    - Nem hivatkozunk másokra amikor információinkra alapozva visszajelzünk.
 
 Milyen a jó visszajelzés?
-    - Pozitív hangvételű, ezt az alapvető célja tükrözi, ami a fejlődés.
-    - Építő jellegű, azaz új utakat nyit a fejlődés felé.
+    - Pozitív hangvételű, az alapvető célját tükrözi, ami a fejlődés.
+    - Építő jellegű, új utakat nyit a fejlődés felé.
     - Őszinte, mivel van alapja a mondanivalónak, a visszajelző fél kellően felkészült és nem fél közölni a tényeket.
-    - Asszertív, sem nem passzív, sem nem aggresszív, hanem olyan önévényesítő magatartásforma, amit alkalmazva mindkét fél nyertesen kerül ki.
+    - Asszertív, azaz sem nem passzív, sem nem aggresszív, hanem olyan önévényesítő magatartásforma, amit alkalmazva mindkét fél nyertesen kerül ki.
     - Nem általánosított, hanem személyreszabott. Általánosításnak helye nincs, a személy fejlődése a cél.
     - Jól időzített. Nem késői, de nem is azonnali.
     - Tényekre alapozott, tárgyilagos + SBI.
     - Semmiképp sem szarszendvics (LoL).
 
-Az SBI módszer:
+SBI mint visszajelzés módszer:
 
-SBI mozaikszó jelentése:
-	Situation: 	Körülmények ismertetése.
-	Behavior: 	Mit tett azon körülmények fennállásakor.
-    Impact: 	A viselkedés hatása a szituációra.
+    SBI mozaikszó jelentése:
+    	Situation: 	Egy esemény körülményeinek ismertetése.
+    	Behavior: 	Mit tett azon körülmények fennállásakor.
+        Impact: 	A viselkedés hatása a szituációra.
 
 A visszajelzés adás folyamata:
-    A. Előkészület:
-        1. Begyűjtött információk összegzése, ellenőrzése 2x!
-        2. SBI pontok előkészítése.
-        3. Reakciókra való felkészülés (különösen negatív visszajelzéseknél).
-        4. Meeting leegyeztetése, időpontfoglalás a hamarabbi érkezésre az esetleges túlnyúló beszélgetésre felkészülve.
-    B. Meeting:
-        1. 5 percel hamarabb érkezünk, hogy mentálisan felkészülhessünk (meditáció)
-        2.
+    1. Történik egy kritikus esemény, vagy az időszakos visszajelzés van soron.
+    2. Előkészület:
+        - Begyűjtött információk összegyűjtése és ellenőrzése duplán!
+        - SBI pontok előkészítése. Tisztánlátás megvalósítása.
+            - Ha a viselkedés megfelelő, akkor közöljük, megerősítjük.
+            - Ha a viselkedés fejlesztendő:
+                - Mi lett volna az elvárt viselkedés, mi lehetett volna másképp?
+                - Reálisak ezek az elvárások?
+        - A visszajelzés szándékának megfogalmazása. Milyen előnyünk származhat a visszajelzésből?
+        - Reakciókra való felkészülés (különösen negatív visszajelzéseknél).
+        - Meeting leegyeztetése, időpontfoglalás a hamarabbi érkezésre és az esetleges túlnyúló beszélgetésre felkészülve.
+    3. Meeting:
+        - 5 percel hamarabb érkezünk, hogy mentálisan felkészülhessünk (meditáció).
+        - Visszajelzés tálalása:
+            Figyelni kell, hogy mindekinek
+
+TODO:
+    [SPELL CHECK]
