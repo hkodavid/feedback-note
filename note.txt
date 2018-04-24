@@ -35,14 +35,15 @@ A visszajelzés adás folyamata:
             - Ha a viselkedés megfelelő, akkor közöljük, megerősítjük.
             - Ha a viselkedés fejlesztendő:
                 - Mi lett volna az elvárt viselkedés, mi lehetett volna másképp?
-                - Reálisak ezek az elvárások?
         - A visszajelzés szándékának megfogalmazása. Milyen előnyünk származhat a visszajelzésből?
         - Reakciókra való felkészülés (különösen negatív visszajelzéseknél).
         - Meeting leegyeztetése, időpontfoglalás a hamarabbi érkezésre és az esetleges túlnyúló beszélgetésre felkészülve.
     3. Meeting:
         - 5 percel hamarabb érkezünk, hogy mentálisan felkészülhessünk (meditáció).
-        - Visszajelzés tálalása:
-            Figyelni kell, hogy mindekinek
+        - TODO:
+        - Üzenet letisztázása.
 
-TODO:
-    [SPELL CHECK]
+Visszajelzés adás hibái:
+    - Feltételezések alapján történő cselekedetek.
+    - Eltérő minőségű, eltérő elvárások alapján nyugvó visszajelzés adás.
+    - Nem megfelelő kommunikáció, elbeszélés egymás mellett.
