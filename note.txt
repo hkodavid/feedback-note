@@ -44,7 +44,7 @@ A visszajelzés adás folyamata:
         - Beszélgetés bemelegítése.
             - Röviden általános beszélgetés. Hogyan érzi magát?
         - SBI pontjainak átbeszélése, tények megerősítése.
-        - Az alany megkérdezése, hogy ő most hogyan látja a helyzetet, hogyan ítéli meg a cselekedetet.
+        - A user megkérdezése, hogy ő most hogyan látja a helyzetet, hogyan ítéli meg a cselekedetet.
             - Ha meglátja a fejlesztendő viselkedést:
                 - Hogyan tenne most másképpen?
             - Ha nem látja a problémát, akkor közöljük vele.
