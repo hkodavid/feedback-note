@@ -40,6 +40,7 @@ A visszajelzés adás folyamata:
         - Meeting leegyeztetése, időpontfoglalás a hamarabbi érkezésre és az esetleges túlnyúló beszélgetésre felkészülve.
     3. Meeting:
         - 5 percel hamarabb érkezünk, hogy mentálisan felkészülhessünk (meditáció).
+        - Telefon némítása, zavaró tényezők kizárása. Jegyzetfüzetet használjunk.
         - Beszélgetés bemelegítése.
             - Röviden általános beszélgetés. Hogyan érzi magát?
         - SBI pontjainak átbeszélése, tények megerősítése.
@@ -47,7 +48,7 @@ A visszajelzés adás folyamata:
             - Ha meglátja a fejlesztendő viselkedést:
                 - Hogyan tenne most másképpen?
             - Ha nem látja a problémát, akkor közöljük vele.
-        - Üzenet letisztázása.
+        - Üzenet letisztázása. "Mit viszel magaddal" kérdés.
 
 Visszajelzés adás hibái:
     - Feltételezések alapján történő cselekedetek.
